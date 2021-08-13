@@ -1,2 +1,2 @@
 # projects
-Repository for work ML/AI work
+Repository for work Math fun and ML/AI work
